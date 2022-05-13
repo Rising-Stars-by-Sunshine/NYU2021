@@ -1,7 +1,7 @@
 # Computer Science, Capstone Report - Spring 2021
 ## An Algorithmic Stablecoin on the Internet Computer
-* by Oli Chen and Gina Joerger *
-* Supervised by Luyao Zhang, Oliver-Gilles Marin, & Yulin Liu*
+* by Oli Chen and Gina Joerger 
+* Supervised by Luyao Zhang, Oliver-Gilles Marin, & Yulin Liu
 
 >Abstract: As the distributed ledger technology industry grows, there is an increasing
 demand for fast, open, and secure blockchains that can support
