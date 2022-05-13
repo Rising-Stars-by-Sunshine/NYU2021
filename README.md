@@ -24,4 +24,4 @@ implementation is highly unlikely to scale as efficiently (on
 Ethereum) compared to a deployed version of our prototype on the
 Internet Computer.
 
-*URL*: https://docsend.com/view/us7utw95qiyut49t
+**URL**: https://docsend.com/view/us7utw95qiyut49t
